@@ -100,7 +100,11 @@ pip install streamlit langchain openai faiss-cpu sentence-transformers pypdf
 ---
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICE
+
+https://github.com/user-attachments/assets/b16daa3b-cb79-47e3-a9e8-fa7388286eaf
+
+NSE).
 
 ---
 
